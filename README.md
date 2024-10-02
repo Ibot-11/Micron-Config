@@ -8,7 +8,7 @@ Here you can find all my configs of my **Micron 180mm**.
 - [Crownest](https://github.com/mainsail-crew/crowsnest)
 - [Mainsail Config](https://github.com/mainsail-crew/mainsail-config)
 - [Katapult](https://github.com/Arksine/katapult)
-- [Carto Probe][(https://github.com/beacon3d/beacon_klipper)](https://github.com/Cartographer3D/cartographer-klipper)
+- [Carto Probe](https://github.com/Cartographer3D/cartographer-klipper)
 - [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup)
 - [KIAUH](https://github.com/dw-0/kiauh)
   
