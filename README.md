@@ -15,11 +15,11 @@ Here you can find all my configs of my **Micron 180mm**.
   
 ## Mods
 - [Dragonburner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
-- [Dragon HF Hotend]
+- [Dragon HF Hotend
 - [ProtoXtruder 2.0](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)
-- [Long Extruder Idler]
-- [Nozzle Wiper]
-- [Bedfans]
+- Long Extruder Idler
+- Nozzle Wiper
+- Bedfans
 - [Chamber Temperature Sensor](https://github.com/PrintersForAnts/Micron/blob/main/Mods/xbst_/Dragchain_Thermistor/Bottom_Hole.stl)
   
   
