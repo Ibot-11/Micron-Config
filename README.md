@@ -1,5 +1,5 @@
-# Green (300mm)
-Here you can find all my configs of my **Micron 180mm**.
+# Micron (180mm)
+Here you can find all my configs of my **Micron**.
 
 ## Software
 - [Klipper](https://github.com/Klipper3d/klipper)
