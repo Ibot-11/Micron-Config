@@ -15,10 +15,10 @@ Here you can find all my configs of my **Micron**.
   
 ## Mods
 - [Dragonburner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
-- [Dragon HF Hotend
+- Dragon HF Hotend
 - [ProtoXtruder 2.0](https://github.com/nhchiu/3DPrinter-Designs/tree/main/ProtoXtruder_2.0)
-- Long Extruder Idler
-- Nozzle Wiper
+- [Long Extruder Idler](https://www.printables.com/model/1026015-protoxtruder-20-long-idler)
+- [Nozzle Wiper](https://www.printables.com/model/1028303-micron-a1-silicon-wiper)
 - Bedfans
 - [Chamber Temperature Sensor](https://github.com/PrintersForAnts/Micron/blob/main/Mods/xbst_/Dragchain_Thermistor/Bottom_Hole.stl)
   
